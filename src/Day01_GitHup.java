@@ -21,7 +21,9 @@ public class Day01_GitHup {
         sadece --git push--
 
         Not; git log --oneline --> Commitlerdeki yani versiyonlarimdaki durumunu gosterir
+        01Furkan
          */
         System.out.println("GitHup'da Ogrendim");
+        
     }
 }
