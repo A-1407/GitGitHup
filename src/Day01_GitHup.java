@@ -28,6 +28,8 @@ public class Day01_GitHup {
         System.out.println("GitHup'da Ogrendim");
 
         System.out.println("Branch 1.Deneme ");
+
+        System.out.println("Mäster 1.Deneme ");
         
     }
 }
