@@ -1,4 +1,4 @@
-public class Day01_GitHup {
+public class Day01ve02_GitHup {
     public static void main(String[] args) {
 
         /*
@@ -24,6 +24,18 @@ public class Day01_GitHup {
         01Furkan
 
         6} git pull --> Remote(yani uzaktaki depo) dosyalari guncellemek icin kullanilir
+
+        7} git branch {isim} yeni branch olusturmamiza yarar
+
+        8} git branh mevcut branch'leri gormemizi saglar
+
+        9} git branch -m "isim" Branchïmizin ismini degisrmeye yarar
+
+        10} git branch -d "isim" branchí siler
+
+        11} git checkout "isim" branchí aktif hale getirir
+
+        12} git merge "isim"  iki branch birlestirir.
          */
         System.out.println("GitHup'da Ogrendim");
 
