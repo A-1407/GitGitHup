@@ -22,6 +22,8 @@ public class Day01_GitHup {
 
         Not; git log --oneline --> Commitlerdeki yani versiyonlarimdaki durumunu gosterir
         01Furkan
+
+        6} git pull --> Remote(yani uzaktaki depo) dosyalari guncellemek icin kullanilir
          */
         System.out.println("GitHup'da Ogrendim");
         
