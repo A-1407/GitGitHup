@@ -26,6 +26,8 @@ public class Day01_GitHup {
         6} git pull --> Remote(yani uzaktaki depo) dosyalari guncellemek icin kullanilir
          */
         System.out.println("GitHup'da Ogrendim");
+
+        System.out.println("Branch 1.Deneme ");
         
     }
 }
